@@ -1,1 +1,2 @@
 Some example text
+some edits, made trough browser in GitHub
