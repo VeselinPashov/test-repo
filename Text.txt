@@ -1,2 +1,4 @@
 Some example text
 some edits, made trough browser in GitHub
+
+some new edits from local git
